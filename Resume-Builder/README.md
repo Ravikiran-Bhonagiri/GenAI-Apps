@@ -6,7 +6,7 @@
 
 ## Overview
 
-Resume-Synthesizer is an AI-driven application designed to help job seekers craft compelling, tailored resumes and cover letters. By leveraging the power of the Google Gemini API, this tool analyzes job descriptions and your existing resume to generate optimized documents that highlight your most relevant skills and experiences. It's built with Streamlit, providing an intuitive and interactive user interface.
+Resume-Builder is an AI-driven application designed to help job seekers craft compelling, tailored resumes and cover letters. By leveraging the power of the Google Gemini API, this tool analyzes job descriptions and your existing resume to generate optimized documents that highlight your most relevant skills and experiences. It's built with Streamlit, providing an intuitive and interactive user interface.
 
 ## Key Features
 
